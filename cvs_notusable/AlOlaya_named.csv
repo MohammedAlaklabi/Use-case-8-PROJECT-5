@@ -1,0 +1,301 @@
+,Name,Contact Information,Rating,Number of Ratings,Longitude,Latitude,Types,neighborhood
+0,فندق ميرا,9200 08155,3.7,1336.0,46.69398469999999,24.7012777,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+1,مركز ماي كار لصيانة السيارات الاوروبية,,3.5,2755.0,46.5764369,24.85175139999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+2,Luthan Hotel and Spa,011 480 7799,4.0,423.0,46.6417087,24.7066487,"['spa', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+3,Dining Hall,011 467 5591,3.0,27.0,46.6196551,24.7209893,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+4,Sushi Yoshi,011 812 0055,4.0,1721.0,46.7061255,24.7048211,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+5,Najd Village,9200 33511,3.9,11310.0,46.70469529999999,24.7426043,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+6,Wooden Bakery,050 133 8321,4.3,10550.0,46.7226815,24.6941192,"['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+7,Najd Village,9200 33511,3.8,8468.0,46.66923329999999,24.6976883,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+8,KFC,9200 21111,3.7,2198.0,46.737091,24.59506409999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+9,McDonald's,800 121 2345,3.9,2735.0,46.69138399999999,24.570255,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+10,Domino's Pizza,9200 12345,3.8,589.0,46.6049938,24.692347,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+11,Mama Noura,9200 12026,4.3,23691.0,46.70188479999999,24.6916263,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+12,Burger King - Al Quds,,3.6,1707.0,46.740762,24.75733899999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+13,Derati Restaurant,011 202 0203,3.7,1331.0,46.58854249999999,24.6368753,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+14,Kudu - Al Rayyan,9200 06999,3.8,1803.0,46.7889345,24.7092575,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",حي العليا
+15,Dominos,9200 12345,3.8,639.0,46.6240752,24.8105963,"['meal_delivery', 'meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+16,Derati Restaurants & Kitchens,9200 08273,3.8,994.0,46.66901430000001,24.5881775,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+17,Hardee's,9200 01213,3.3,827.0,46.6436339,24.6008518,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+18,KFC,9200 21111,3.5,975.0,46.6441676,24.6004069,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+19,Kudu - Al Malaz,9200 06999,3.9,1944.0,46.72442909999999,24.6663876,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",حي العليا
+20,Mama Noura,011 266 6623,4.1,11464.0,46.6653609,24.5717473,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+21,قصر الهند,011 278 2394,3.8,6168.0,46.75289959999999,24.75744370000001,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+22,Herfy,9200 01111,3.8,1376.0,46.6983362,24.6940569,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+23,Al Jalab Restaurant,011 450 7979,4.3,1543.0,46.6870006,24.7337823,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+24,Al Romansiah,9200 00144,4.1,8499.0,46.81412389999999,24.7587183,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+25,Al Nafoura Restaurant,011 267 0815,3.3,1007.0,46.6251475,24.5884052,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+26,Herfy,9200 01111,3.7,380.0,46.6575254,24.7559561,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+27,Diet Center - دايت سنتر,9200 17373,4.1,74.0,46.784153,24.681048,"['grocery_or_supermarket', 'health', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",حي العليا
+28,KFC,9200 21111,3.6,1452.0,46.7923858,24.6840264,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+29,Kudu - Al Seteen Palace,9200 06999,3.9,2399.0,46.7231741,24.6905735,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",حي العليا
+30,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 455 9562,3.7,649.0,46.6625465,24.7579306,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+31,Al Saudi Restaurant,9200 09515,3.9,4618.0,46.70311350000001,24.6957429,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+32,Burger King - Bin Turkey,,3.7,681.0,46.619087,24.746228,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+33,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 449 6563,3.9,790.0,46.63085969999999,24.5802744,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+34,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 470 7591,3.9,719.0,46.65586740000001,24.7247857,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+35,Burger King - Exit 28,,3.8,1294.0,46.6212052,24.5681274,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+36,KFC,9200 21111,3.6,1311.0,46.713719,24.6382089,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+37,TOKYO,9200 09662,4.3,7203.0,46.68670509999999,24.7181459,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+38,Kudu - Al Wurud,9200 06999,4.0,1024.0,46.6758245,24.7322926,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",حي العليا
+39,Sheikh Al-Mandi Restaurant,011 464 4099,3.5,2022.0,46.70186499999999,24.693749,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+40,Al Romansiah,9200 00144,4.2,9584.0,46.7069578,24.5620929,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+41,Herfy,9200 01111,3.8,896.0,46.6736126,24.7609124,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+42,Subway,,3.7,452.0,46.7834343,24.7289012,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+43,برجر كاسل,011 281 8775,4.1,1057.0,46.6345087,24.714561,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+44,وايت قاردن,011 462 7799,4.2,4534.0,46.6836945,24.6943084,"['restaurant', 'bar', 'night_club', 'point_of_interest', 'food', 'establishment']",حي العليا
+45,Al Tazaj,9200 00765,3.6,4796.0,46.6443952,24.6002206,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+46,McDonald's,800 121 2345,3.7,2042.0,46.640038,24.598766,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+47,Subway,,3.8,341.0,46.65607869999999,24.608878,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+48,McDonald's,800 121 2345,3.9,3568.0,46.794646,24.713222,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+49,Herfy,9200 01111,3.5,746.0,46.675,24.6755556,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+50,KFC,9200 21111,3.8,1219.0,46.6889225,24.62540690000001,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+51,Fairmont Riyadh,011 826 2626,4.7,5105.0,46.7182893,24.8082207,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+52,Burger King - Exit 8 Dammam Rd,,3.7,1210.0,46.743149,24.800591,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+53,Al Romansiah Restaurant - Al Nasseem District,9200 00144,4.2,8154.0,46.81462699999999,24.7335149,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+54,Al Romansiah,9200 00144,4.2,9460.0,46.792399,24.695811,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+55,Herfy,9200 01111,3.6,872.0,46.750084,24.7795459,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+56,KFC,9200 21111,3.5,1825.0,46.76440969999999,24.7327532,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي العليا
+57,Herfy,9200 01111,3.8,1081.0,46.7975115,24.7809607,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+58,Burger King - Rawdah,,3.7,1370.0,46.76226500000001,24.735643,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+59,KFC,9200 21111,3.4,1705.0,46.61225279999999,24.5724179,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي العليا
+60,مطعم نيوم,050 146 0103,3.3,143.0,44.78612469999999,23.7759254,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+61,بوفية الرفقة,053 450 8937,3.2,18.0,44.7895881,23.777253,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+62,بوفية خفايف,053 376 6074,3.2,33.0,44.7906072,23.7775033,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+63,بوفية السلاطين,,3.0,2.0,44.7934042,23.7756079,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+64,مطعم سما دبي,,4.1,29.0,44.7936741,23.77585850000001,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+65,Swat restaurant,,,,44.7709565,23.7713478,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+66,مطعم كشمير البخاري,059 042 1174,3.6,219.0,44.7641041,23.7631921,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+67,ركن الكنافة,055 211 1260,4.1,41.0,44.7624435,23.7626758,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+68,بوفيه خبزه وحمسات,,4.4,5.0,44.76429819999999,23.76112909999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+69,بوفية اسماء العتيبي,,5.0,1.0,44.762651,23.76212300000001,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+70,شكوكلاته الذائبة,054 949 0452,4.6,13.0,44.7617595,23.7627612,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+71,بوفية الاريج,,5.0,2.0,44.7625571,23.762104,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+72,بوفية فول فلافل لتقديم الوجبات,050 744 9214,3.7,45.0,44.7623999,23.7620677,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+73,Kerala hotel,,3.9,8.0,44.7642932,23.7600403,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+74,حلاالطازج للعصائر,055 884 0653,3.5,2.0,44.7617196,23.7617327,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+75,سربستوني,053 184 7115,4.7,47.0,44.76253510000001,23.7610696,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+76,بوفية الحياة,,,,44.7641185,23.7597439,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+77,بوفية الشباب,050 216 9470,3.0,17.0,44.76226339999999,23.7610069,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+78,مطعم بنغالي,,,,44.7626044,23.75998079999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+79,فوال و مطبق نورة,053 503 7441,5.0,3.0,44.7620616,23.759976,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+80,معصوب الراقي,050 920 8103,4.7,6.0,44.7628417,23.75937829999999,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+81,مطعم معصوب ملكي,,5.0,1.0,44.7628344,23.7593272,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+82,بوفية نجد الجزيرة لتقديم الوجبات,,,,44.7627026,23.7593094,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+83,بوفية البكري,,3.7,3.0,44.7627023,23.7593094,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+84,بوفية كبده طازج,,3.8,24.0,44.7621866,23.75964789999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+85,مذاق الدجاج للوجبات السريعة,011 655 2111,3.7,226.0,44.7614997,23.7599655,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+86,مطاعم ومطابخ المذاق المثلوثه,053 393 9694,3.7,330.0,44.7624046,23.7592293,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+87,مطعم الحديقة,055 574 7736,3.3,186.0,44.7603125,23.7608125,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+88,مطعم فلافل العرض,,4.0,2.0,44.7613134,23.7600066,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+89,Burger Roma,055 583 3925,3.5,168.0,44.7621495,23.7591719,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+90,Bait ul bokhari,050 268 6184,3.7,7.0,44.76190800000001,23.7591385,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+91,فوال,,,,44.75580970000001,23.764266,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+92,محل لذيذ للايسكريم,055 855 2543,4.4,13.0,44.7591594,23.7608173,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+93,مطاعم قلعة الفرسان لتقديم الوجبات,055 296 8137,3.6,96.0,44.7002085,23.74173039999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+94,بوفيه السلاطين,,4.0,1.0,44.70037479999999,23.740488,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+95,مطعم الهاجري,,3.3,105.0,44.88456040000001,23.7979441,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+96,Pakistani Restaurant مطعم باكستاني,055 959 3261,5.0,1.0,44.6888711,23.7332642,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+97,Pakistan Swat Restaurant,058 310 1446,2.4,25.0,44.89412889999999,23.7994914,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+98,مطعم بخاري,,2.9,14.0,44.8941168,23.7996792,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+99,بوفيه زنجر,053 054 2819,4.9,7.0,44.8943793,23.799645,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+100,مركز طحي,,,,44.6771425,23.7117484,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+101,بوفيه السلاطين,,5.0,1.0,44.6771425,23.7117484,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+102,بوفية شعبيات العسلي,,5.0,1.0,44.6704319,23.7185517,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+103,Pakistani Hotel,,4.1,49.0,44.6546327,23.7216409,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+104,مطعم فامبا,050 204 6203,4.1,15.0,44.651542,23.7229757,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+105,محطة العمودي,,5.0,1.0,44.651561,23.7224327,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+106,مطبخ سنام الحديث,053 125 5906,5.0,3.0,44.74805189999999,23.6502364,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+107,بوفيه توت وعنب,,4.3,6.0,44.6219155,23.7106265,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+108,مطعم البراك,053 455 3298,4.1,879.0,44.62115070000001,23.7107232,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+109,Mazaq Pakistani Hotel,,5.0,1.0,44.5919455,23.6992381,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+110,مطعم البخاري الباكستاني,055 322 1866,3.4,1155.0,44.9928682,23.8496622,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+111,مخيم افطارصايم جمعيه عروي الخيريه,,5.0,1.0,44.6106791,23.9160373,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+112,Pakistani hotel,,4.3,102.0,44.9946782,23.8480557,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+113,Camp Messhall,,3.8,5.0,45.0609901,23.7838261,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+114,Restaurant and Buffet Arabism,055 211 4644,4.5,16.0,44.9519218,23.9884014,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+115,مطعم السحاب,055 535 0688,1.8,5.0,44.9504613,23.9900549,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+116,مسلخ ومطبخ بصير,,,,44.94989,23.9908752,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+117,مقرمشات فيصل دعكيك,050 099 0721,3.0,4.0,45.0791527,23.885914,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي السليمانية
+118,Peshawari hotel,059 782 1447,4.0,1.0,45.079162,23.885942,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+119,مكه المكرمه,,,,45.079162,23.885942,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي السليمانية
+120,Sonesta Hotel Tower & Casino Cairo,02 22641111,4.2,11528.0,31.3175599,30.07895909999999,"['casino', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+121,Casino Barrière,02 27373737,4.0,241.0,31.2249468,30.0389969,"['casino', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+122,EL TONSY HOTEL,02 33376908,3.7,1067.0,31.2176806,30.0393458,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+123,Holiday Express Hotel,010 26006112,3.2,1065.0,31.2075497,30.0591197,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+124,رانو سنتر,,5.0,1.0,31.3133694,30.0792023,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+125,El Gomhoureya Restaurant,02 23923008,4.0,2514.0,31.2399542,30.0457447,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+126,Kempinski Nile Hotel Garden City Cairo,02 27980000,4.6,9904.0,31.2304093,30.03864669999999,"['spa', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+127,Mohamed’s house,011 64646464,5.0,5.0,31.1448816,29.9799181,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+128,Chicken Tikka,0219099,3.9,746.0,31.3425628,30.0544688,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+129,كوستا كوفى,02 0166060,4.2,1945.0,31.2215865,30.06513399999999,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+130,PizzaHut,0219000,4.0,570.0,31.28405,29.976226,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+131,Aperitivo,02 27350543,4.1,404.0,31.2244167,30.0590438,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+132,Costa Coffee,,4.2,1411.0,31.2607343,29.95708860000001,"['cafe', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+133,Taza,010 15083111,4.1,4806.0,31.2159113,30.0393898,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+134,The Cairo Cellar,02 27350652,4.2,502.0,31.2194854,30.0677035,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+135,PizzaHut,0219000,3.8,772.0,31.213721,30.034733,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+136,مطعم الجمهوريه,,3.8,23.0,31.1500477,30.007117,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+137,El Gomhuria,,5.0,3.0,31.24521769999999,30.0331188,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+138,asmak el gomhoria,02 25893496,4.4,11.0,31.2620272,30.0637199,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+139,El Youm,,4.5,2.0,31.2504199,29.9769512,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+140,El Gomhoria,02 22554555,4.4,136.0,31.3129678,30.121433,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+141,مشويات الهلال,012 23470244,5.0,7.0,31.27517659999999,30.078087,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+142,cook door,02 24861646,3.8,630.0,31.2685164,30.0692666,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+143,Ristorante Tuscany,,4.5,111.0,31.22462700000001,30.05714499999999,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+144,El Arab,,4.3,9.0,31.2377651,30.0829512,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+145,Bedaia,02 23910319,4.7,3.0,31.2497823,30.05699589999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+146,El Khaleig,,,,31.19891029999999,30.0584831,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+147,"The Clubhouse, Uptown Cairo, Emaar",02 25032021,4.6,1836.0,31.300092,30.022361,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+148,PizzaHut,0219000,4.2,416.0,31.1934547,30.05920509999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+149,ATA,,5.0,1.0,31.2430305,30.0429306,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+150,Badaya,012 86807172,4.1,58.0,31.2823736,30.1427196,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+151,McDonald's Mohi El Dein St.,02 21600377,4.2,4942.0,31.2006964,30.04246839999999,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+152,Dosh,,3.3,17.0,31.3212872,30.0735095,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+153,Pizza Hut,,4.1,918.0,31.215769,30.0653808,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+154,Casper & Gambini's,02 24802410,4.1,296.0,31.3470699,30.0731691,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+155,KFC,0219019,3.4,596.0,31.2741875,30.0631875,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+156,Paradise Stationery,02 23638703,4.0,2.0,31.2329604,30.0291289,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+157,Cilantro Nasr,012 76666318,4.3,2143.0,31.28497509999999,29.9762591,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+158,Abou Bakr El Seedeq,,4.1,30.0,31.261463,30.10219249999999,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+159,Cook Door,02 24681912,3.9,908.0,31.35578510000001,30.0449269,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+160,Auto Market,010 03419086,4.1,253.0,31.19540220000001,30.0471017,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",حي الورود
+161,Safo,011 58470688,4.3,190.0,31.2035835,30.03883999999999,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+162,man'oucheh,02 37623575,4.1,441.0,31.2040964,30.0541295,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+163,Amir Eldomiaty - Al Manyal امير الدمياطي فرع المنيل,011 10128836,4.3,1115.0,31.2258448,30.02086480000001,"['meal_delivery', 'meal_takeaway', 'bakery', 'restaurant', 'food', 'store', 'point_of_interest', 'establishment']",حي الورود
+164,Seasons Country Club,010 03424226,4.5,1513.0,31.105759,30.013886,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+165,Solaimaneyah Golf Restaurant,02 39102000,3.8,23.0,30.8376316,30.1539719,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+166,الصحابة,010 99983332,4.1,69.0,31.1435752,29.9923079,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+167,SAIGON RESTAURANT & LOUNGE,02 24619494,4.7,671.0,31.2279093,30.072149,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+168,Hardee's,,4.0,229.0,31.227537,30.069439,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+169,Lasera,,4.1,545.0,31.1583856,29.9959284,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+170,Pool Grill,02 27916879,4.2,76.0,31.2294563,30.03593519999999,"['bar', 'night_club', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+171,فطائر بيتزا عرفه,02 23610174,4.1,892.0,31.2407149,30.0327792,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+172,Bull's Eye Pub & Restaurant,02 37616888,4.2,376.0,31.1983337,30.0448837,"['bar', 'night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+173,Hadramawt,02 25255500,4.1,1139.0,31.2527495,29.9627309,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+174,Akher Saa,02 25753521,4.0,8311.0,31.2437687,30.0536264,"['restaurant', 'food', 'store', 'point_of_interest', 'establishment']",حي الورود
+175,Country Burger,,4.0,3.0,31.28253,29.976382,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+176,مطعم الشعب,02 24454490,4.0,302.0,31.2681984,30.0628359,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+177,بيتزا وفطائرا المهندسين,010 03519052,4.2,1948.0,31.19171740000001,30.0665218,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+178,Okashi,02 23651234,3.1,14.0,31.2269541,30.034745,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الورود
+179,Peking,02 33366734,4.3,1167.0,31.1984722,30.046903,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الورود
+180,فندق ميرا,9200 08155,3.7,1336.0,46.69398469999999,24.7012777,"['lodging', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+181,مركز ماي كار لصيانة السيارات الاوروبية,,3.5,2755.0,46.5764369,24.85175139999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+182,Luthan Hotel and Spa,011 480 7799,4.0,423.0,46.6417087,24.7066487,"['spa', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+183,Dining Hall,011 467 5591,3.0,27.0,46.6196551,24.7209893,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+184,Sushi Yoshi,011 812 0055,4.0,1721.0,46.7061255,24.7048211,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+185,Najd Village,9200 33511,3.9,11310.0,46.70469529999999,24.7426043,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+186,Wooden Bakery,050 133 8321,4.3,10550.0,46.7226815,24.6941192,"['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+187,Najd Village,9200 33511,3.8,8468.0,46.66923329999999,24.6976883,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+188,KFC,9200 21111,3.7,2198.0,46.737091,24.59506409999999,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+189,McDonald's,800 121 2345,3.9,2735.0,46.69138399999999,24.570255,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+190,Domino's Pizza,9200 12345,3.8,589.0,46.6049938,24.692347,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+191,Mama Noura,9200 12026,4.3,23691.0,46.70188479999999,24.6916263,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+192,Burger King - Al Quds,,3.6,1707.0,46.740762,24.75733899999999,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+193,Derati Restaurant,011 202 0203,3.7,1331.0,46.58854249999999,24.6368753,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+194,Kudu - Al Rayyan,9200 06999,3.8,1803.0,46.7889345,24.7092575,"['restaurant', 'meal_delivery', 'meal_takeaway', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+195,Dominos,9200 12345,3.8,639.0,46.6240752,24.8105963,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+196,Derati Restaurants & Kitchens,9200 08273,3.8,994.0,46.66901430000001,24.5881775,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+197,Hardee's,9200 01213,3.3,827.0,46.6436339,24.6008518,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+198,KFC,9200 21111,3.5,975.0,46.6441676,24.6004069,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+199,Kudu - Al Malaz,9200 06999,3.9,1944.0,46.72442909999999,24.6663876,"['restaurant', 'meal_delivery', 'meal_takeaway', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+200,Mama Noura,011 266 6623,4.1,11464.0,46.6653609,24.5717473,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+201,قصر الهند,011 278 2394,3.8,6168.0,46.75289959999999,24.75744370000001,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+202,Herfy,9200 01111,3.8,1376.0,46.6983362,24.6940569,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+203,Al Jalab Restaurant,011 450 7979,4.3,1543.0,46.6870006,24.7337823,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+204,Al Romansiah,9200 00144,4.1,8499.0,46.81412389999999,24.7587183,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+205,Herfy,9200 01111,3.7,380.0,46.6575254,24.7559561,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+206,Al Nafoura Restaurant,011 267 0815,3.3,1007.0,46.6251475,24.5884052,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+207,Diet Center - دايت سنتر,9200 17373,4.1,74.0,46.784153,24.681048,"['grocery_or_supermarket', 'store', 'restaurant', 'food', 'health', 'point_of_interest', 'establishment']",حي المرسلات
+208,KFC,9200 21111,3.6,1452.0,46.7923858,24.6840264,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+209,Kudu - Al Seteen Palace,9200 06999,3.9,2399.0,46.7231741,24.6905735,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+210,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 455 9562,3.7,649.0,46.6625465,24.7579306,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+211,Al Saudi Restaurant,9200 09515,3.9,4618.0,46.70311350000001,24.6957429,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+212,Burger King - Bin Turkey,,3.7,681.0,46.619087,24.746228,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+213,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 470 7591,3.9,719.0,46.65586740000001,24.7247857,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+214,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 449 6563,3.9,790.0,46.63085969999999,24.5802744,"['meal_delivery', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+215,KFC,9200 21111,3.6,1311.0,46.713719,24.6382089,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+216,TOKYO,9200 09662,4.3,7203.0,46.68670509999999,24.7181459,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+217,Burger King - Exit 28,,3.8,1294.0,46.6212052,24.5681274,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+218,Kudu - Al Wurud,9200 06999,4.0,1024.0,46.6758245,24.7322926,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+219,Sheikh Al-Mandi Restaurant,011 464 4099,3.5,2022.0,46.70186499999999,24.693749,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+220,Herfy,9200 01111,3.8,896.0,46.6736126,24.7609124,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+221,Subway,,3.7,452.0,46.7834343,24.7289012,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+222,برجر كاسل,011 281 8775,4.1,1057.0,46.6345087,24.714561,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+223,Al Romansiah,9200 00144,4.2,9584.0,46.7069578,24.5620929,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+224,وايت قاردن,011 462 7799,4.2,4534.0,46.6836945,24.6943084,"['restaurant', 'bar', 'food', 'night_club', 'point_of_interest', 'establishment']",حي المرسلات
+225,Al Tazaj,9200 00765,3.6,4796.0,46.6443952,24.6002206,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+226,McDonald's,800 121 2345,3.7,2042.0,46.640038,24.598766,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+227,McDonald's,800 121 2345,3.9,3568.0,46.794646,24.713222,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+228,Subway,,3.8,341.0,46.65607869999999,24.608878,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+229,Herfy,9200 01111,3.5,746.0,46.675,24.6755556,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+230,KFC,9200 21111,3.8,1219.0,46.6889225,24.62540690000001,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+231,Fairmont Riyadh,011 826 2626,4.7,5105.0,46.7182893,24.8082207,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+232,Burger King - Exit 8 Dammam Rd,,3.7,1210.0,46.743149,24.800591,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+233,Al Romansiah Restaurant - Al Nasseem District,9200 00144,4.2,8154.0,46.81462699999999,24.7335149,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+234,Herfy,9200 01111,3.6,872.0,46.750084,24.7795459,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+235,Al Romansiah,9200 00144,4.2,9460.0,46.792399,24.695811,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+236,KFC,9200 21111,3.5,1825.0,46.76440969999999,24.7327532,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+237,Herfy,9200 01111,3.8,1081.0,46.7975115,24.7809607,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي المرسلات
+238,Burger King - Rawdah,,3.7,1370.0,46.76226500000001,24.735643,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+239,KFC,9200 21111,3.8,2246.0,46.6647609,24.7045778,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي المرسلات
+240,فندق ميرا,9200 08155,3.7,1336.0,46.69398469999999,24.7012777,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+241,مركز ماي كار لصيانة السيارات الاوروبية,,3.5,2755.0,46.5764369,24.85175139999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+242,Luthan Hotel and Spa,011 480 7799,4.0,423.0,46.6417087,24.7066487,"['spa', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+243,Dining Hall,011 467 5591,3.0,27.0,46.6196551,24.7209893,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+244,Sushi Yoshi,011 812 0055,4.0,1721.0,46.7061255,24.7048211,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+245,Najd Village,9200 33511,3.9,11310.0,46.70469529999999,24.7426043,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+246,Wooden Bakery,050 133 8321,4.3,10550.0,46.7226815,24.6941192,"['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",حي الزدهار
+247,Najd Village,9200 33511,3.8,8468.0,46.66923329999999,24.6976883,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+248,KFC,9200 21111,3.7,2198.0,46.737091,24.59506409999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+249,McDonald's,800 121 2345,3.9,2735.0,46.69138399999999,24.570255,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+250,Domino's Pizza,9200 12345,3.8,589.0,46.6049938,24.692347,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+251,Mama Noura,9200 12026,4.3,23691.0,46.70188479999999,24.6916263,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+252,Burger King - Al Quds,,3.6,1707.0,46.740762,24.75733899999999,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+253,Derati Restaurant,011 202 0203,3.7,1331.0,46.58854249999999,24.6368753,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+254,Kudu - Al Rayyan,9200 06999,3.8,1803.0,46.7889345,24.7092575,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+255,Dominos,9200 12345,3.8,639.0,46.6240752,24.8105963,"['meal_delivery', 'meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+256,Derati Restaurants & Kitchens,9200 08273,3.8,994.0,46.66901430000001,24.5881775,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+257,Hardee's,9200 01213,3.3,827.0,46.6436339,24.6008518,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+258,KFC,9200 21111,3.5,975.0,46.6441676,24.6004069,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+259,Kudu - Al Malaz,9200 06999,3.9,1944.0,46.72442909999999,24.6663876,"['restaurant', 'meal_delivery', 'meal_takeaway', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+260,Mama Noura,011 266 6623,4.1,11464.0,46.6653609,24.5717473,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+261,قصر الهند,011 278 2394,3.8,6168.0,46.75289959999999,24.75744370000001,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+262,Herfy,9200 01111,3.8,1376.0,46.6983362,24.6940569,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+263,Al Jalab Restaurant,011 450 7979,4.3,1543.0,46.6870006,24.7337823,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+264,Al Romansiah,9200 00144,4.1,8499.0,46.81412389999999,24.7587183,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+265,Herfy,9200 01111,3.7,380.0,46.6575254,24.7559561,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+266,Diet Center - دايت سنتر,9200 17373,4.1,74.0,46.784153,24.681048,"['grocery_or_supermarket', 'health', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",حي الزدهار
+267,KFC,9200 21111,3.6,1452.0,46.7923858,24.6840264,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+268,Kudu - Al Seteen Palace,9200 06999,3.9,2399.0,46.7231741,24.6905735,"['restaurant', 'meal_delivery', 'meal_takeaway', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+269,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 455 9562,3.7,649.0,46.6625465,24.7579306,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+270,Al Nafoura Restaurant,011 267 0815,3.3,1007.0,46.6251475,24.5884052,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+271,Al Saudi Restaurant,9200 09515,3.9,4618.0,46.70311350000001,24.6957429,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+272,Burger King - Bin Turkey,,3.7,681.0,46.619087,24.746228,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+273,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 470 7591,3.9,719.0,46.65586740000001,24.7247857,"['meal_delivery', 'restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+274,KFC,9200 21111,3.6,1311.0,46.713719,24.6382089,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+275,Little Caesars Pizza! Pizza! !ليتل سيزرز بيتزا! بيتزا,011 449 6563,3.9,790.0,46.63085969999999,24.5802744,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+276,TOKYO,9200 09662,4.3,7203.0,46.68670509999999,24.7181459,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+277,Kudu - Al Wurud,9200 06999,4.0,1024.0,46.6758245,24.7322926,"['restaurant', 'meal_delivery', 'meal_takeaway', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+278,Sheikh Al-Mandi Restaurant,011 464 4099,3.5,2022.0,46.70186499999999,24.693749,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+279,Burger King - Exit 28,,3.8,1294.0,46.6212052,24.5681274,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+280,Herfy,9200 01111,3.8,896.0,46.6736126,24.7609124,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+281,Subway,,3.7,452.0,46.7834343,24.7289012,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+282,برجر كاسل,011 281 8775,4.1,1057.0,46.6345087,24.714561,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+283,Al Romansiah,9200 00144,4.2,9584.0,46.7069578,24.5620929,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+284,وايت قاردن,011 462 7799,4.2,4534.0,46.6836945,24.6943084,"['restaurant', 'bar', 'night_club', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+285,Al Tazaj,9200 00765,3.6,4796.0,46.6443952,24.6002206,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+286,McDonald's,800 121 2345,3.7,2042.0,46.640038,24.598766,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+287,McDonald's,800 121 2345,3.9,3568.0,46.794646,24.713222,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+288,Subway,,3.8,341.0,46.65607869999999,24.608878,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+289,Herfy,9200 01111,3.5,746.0,46.675,24.6755556,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+290,Fairmont Riyadh,011 826 2626,4.7,5105.0,46.7182893,24.8082207,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+291,KFC,9200 21111,3.8,1219.0,46.6889225,24.62540690000001,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+292,Burger King - Exit 8 Dammam Rd,,3.7,1210.0,46.743149,24.800591,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+293,Al Romansiah Restaurant - Al Nasseem District,9200 00144,4.2,8154.0,46.81462699999999,24.7335149,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+294,Herfy,9200 01111,3.6,872.0,46.750084,24.7795459,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+295,Al Romansiah,9200 00144,4.2,9460.0,46.792399,24.695811,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
+296,Herfy,9200 01111,3.8,1081.0,46.7975115,24.7809607,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+297,KFC,9200 21111,3.5,1825.0,46.76440969999999,24.7327532,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+298,Burger King - Rawdah,,3.7,1370.0,46.76226500000001,24.735643,"['restaurant', 'food', 'point_of_interest', 'establishment']",حي الزدهار
+299,KFC,9200 21111,3.8,2246.0,46.6647609,24.7045778,"['restaurant', 'point_of_interest', 'food', 'establishment']",حي الزدهار
