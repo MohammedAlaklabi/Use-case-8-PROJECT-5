@@ -4,5 +4,3 @@ scikit-learn
 fastapi
 joblib
 pydantic
-K-Means
-DBScan
