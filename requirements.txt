@@ -5,3 +5,4 @@ fastapi
 joblib
 pydantic
 K-Means
+DBScan
