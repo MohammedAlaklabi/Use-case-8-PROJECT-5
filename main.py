@@ -43,4 +43,4 @@ async def predict(input_data: InputData):
 # Root endpoint
 @app.get("/")
 def root():
-    return {"message": "Welcome to my FastAPI application!"}
+    return "Welcome to my FastAPI application!"
