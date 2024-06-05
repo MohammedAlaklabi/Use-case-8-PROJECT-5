@@ -10,14 +10,30 @@ st.write("""
 Restaurant ratings serve as a valuable reference for both consumers and restaurants. Restaurant ratings influence how much money a restaurant makes and help customers choose where to eat.
 """)
 
-# Load the data
+
 @st.cache
 def load_data():
-    data = pd.read_csv('ML_DATA.csv')  # Update this with the path to your data file
-    data = data.drop('Unnamed: 0', axis=1)
-    return data
+    try:
+        data = pd.read_csv('ML_DATA.csv')  # Update this with the path to your data file
+        if 'Unnamed: 0' in data.columns:
+            data = data.drop('Unnamed: 0', axis=1)
+        return data
+    except FileNotFoundError:
+        st.error("The file 'ML_DATA.csv' was not found. Please ensure the file is in the correct location.")
+        return None
+    except Exception as e:
+        st.error(f"An error occurred while loading the data: {e}")
+        return None
 
+# Load the data
 data = load_data()
+
+if data is not None:
+    # Display the data in the Streamlit app
+    st.write("Restaurant Ratings Analysis")
+    st.dataframe(data)
+else:
+    st.write("No data to display.")
 
 # Display the data
 st.write("## Data Overview")
