@@ -30,7 +30,7 @@ fig = px.bar(rating_counts, x=rating_counts.index, y=rating_counts.values, label
 st.plotly_chart(fig)
 
 # Visualization: Scatter Plot of Ratings vs. Number of Ratings
-st.write("## Ratings vs. Number of Ratings (Interactive)")
+st.write("## Ratings vs. Number of Ratings ")
 fig = px.scatter(data, x='Number of Ratings', y='Rating', title='Ratings vs. Number of Ratings', labels={'Number of Ratings': 'Number of Ratings', 'Rating': 'Rating'})
 st.plotly_chart(fig)
 
@@ -41,7 +41,7 @@ def predict_rating_cluster(Number_of_Ratings, Weighted_Rating, Rating_category_e
         "Weighted_Rating": Weighted_Rating,
         "Rating_category_encoder": Rating_category_encoder
     }
-    response = requests.post("http://localhost:8000/predict", json=payload)
+    response = requests.post("https://use-case-8-project-5.onrender.com", json=payload)
     if response.status_code == 200:
         return response.json()["cluster_labels"]
     else:
