@@ -84,7 +84,7 @@ st.write("## DBSCAN CLUSTER ")
 st.image('CLUSTER DBSCAN.png')
 
 # Footer
-st.write("## ERROR")
+st.write("## ERRORS")
 st.image('error 1.png')
 st.image('error 2.png')
 st.image('error 3.png')
