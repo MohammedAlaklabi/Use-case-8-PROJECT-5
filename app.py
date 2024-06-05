@@ -13,12 +13,12 @@ Restaurant ratings serve as a valuable reference for both consumers and restaura
 @st.cache
 def load_data():
     try:
-        data = pd.read_csv('ML_DATA.csv')  # Update this with the path to your data file
+        data = pd.read_csv('ML_Data.csv')  # Update this with the path to your data file
         if 'Unnamed: 0' in data.columns:
             data = data.drop('Unnamed: 0', axis=1)
         return data
     except FileNotFoundError:
-        st.error("The file 'ML_DATA.csv' was not found. Please ensure the file is in the correct location.")
+        st.error("The file was not found. Please ensure the file is in the correct location.")
         return None
     except Exception as e:
         st.error(f"An error occurred while loading the data: {e}")
