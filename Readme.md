@@ -6,7 +6,11 @@
 - Abdullah Altuwayjiri
 
 
+# Streamlit:
+[ https://use-case-8-project-5-ndyrl9snwivjwtifgjychx.streamlit.app ]
 
+# Deployment
+[ https://use-case-8-project-5.onrender.com ]
 ## Introduction:
 
 Restaurant ratings serve as a valuable reference for both consumers and restaurants.
