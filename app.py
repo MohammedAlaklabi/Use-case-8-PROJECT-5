@@ -83,6 +83,9 @@ st.image('STAIRS DBSCAN.png')
 st.write("## DBSCAN CLUSTER ")
 st.image('CLUSTER DBSCAN.png')
 
+st.write("## CLUSTERS ")
+st.image('CLUSTERS.png')
+
 # # Footer
 # st.write("## ERRORS")
 # st.image('error 1.png')
