@@ -13,7 +13,7 @@ Restaurant ratings serve as a valuable reference for both consumers and restaura
 # Load the data
 @st.cache
 def load_data():
-    data = pd.read_csv('FINALDATA.csv')  # Update this with the path to your data file
+    data = pd.read_csv('ML_DATA.csv')  # Update this with the path to your data file
     data = data.drop('Unnamed: 0', axis=1)
     return data
 
