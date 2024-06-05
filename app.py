@@ -83,7 +83,7 @@ st.image('STAIRS DBSCAN.png')
 st.write("## DBSCAN CLUSTER ")
 st.image('CLUSTER DBSCAN.png')
 
-st.write("## CLUSTERS ")
+st.write("## K-MEANS CLUSTERS ")
 st.image('CLUSTERS.png')
 
 # # Footer
