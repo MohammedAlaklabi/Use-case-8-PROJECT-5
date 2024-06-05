@@ -30,7 +30,7 @@ data = load_data()
 # Check if data is loaded successfully
 if data is not None:
     st.write("Restaurant Ratings Analysis")
-    st.dataframe(data.head())  # Display the first few rows of the dataframe
+    st.dataframe(data.tail())  # Display the first few rows of the dataframe
 else:
     st.write("No data to display.")
 
@@ -83,8 +83,8 @@ st.image('STAIRS DBSCAN.png')
 st.write("## DBSCAN CLUSTER ")
 st.image('CLUSTER DBSCAN.png')
 
-# Footer
-st.write("## ERRORS")
-st.image('error 1.png')
-st.image('error 2.png')
-st.image('error 3.png')
+# # Footer
+# st.write("## ERRORS")
+# st.image('error 1.png')
+# st.image('error 2.png')
+# st.image('error 3.png')
