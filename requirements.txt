@@ -1,5 +1,11 @@
-fastapi[all]
-pydantic
 fastapi
-scikit-learn
+uvicorn
+pydantic
 joblib
+streamlit
+requests
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
