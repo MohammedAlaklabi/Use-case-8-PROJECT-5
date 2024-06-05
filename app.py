@@ -10,7 +10,6 @@ st.write("""
 Restaurant ratings serve as a valuable reference for both consumers and restaurants. Restaurant ratings influence how much money a restaurant makes and help customers choose where to eat.
 """)
 
-
 @st.cache
 def load_data():
     try:
@@ -28,16 +27,12 @@ def load_data():
 # Load the data
 data = load_data()
 
+# Check if data is loaded successfully
 if data is not None:
-    # Display the data in the Streamlit app
     st.write("Restaurant Ratings Analysis")
-    st.dataframe(data)
+    st.dataframe(data.head())  # Display the first few rows of the dataframe
 else:
     st.write("No data to display.")
-
-# Display the data
-st.write("## Data Overview")
-st.dataframe(data.head())
 
 # Visualization: Distribution of Ratings
 st.write("## Distribution of Ratings")
